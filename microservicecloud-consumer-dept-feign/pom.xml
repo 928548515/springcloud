@@ -10,7 +10,7 @@
         <relativePath>../microservicecloud/pom.xml</relativePath>
     </parent>
 
-    <artifactId>microservicecloud-consumer-dept-80</artifactId>
+    <artifactId>microservicecloud-consumer-dept-feign</artifactId>
 
 
     <properties>
